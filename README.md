@@ -6,7 +6,7 @@ Backend for the **Lost and Found Website** built with the MERN stack. This proje
 ---
 
 ## 🚀 Features
-- 🔐 **Secure User Authentication**: Password hashing with bcrypt.js and session management with JWT.
+- 🔐 **Secure User Authentication**: Password hashing with bcrypt.js.
 - 📋 **Post Lost/Found Items**: Allows users to post details and images of lost or found items.
 - 📂 **Categorized Data Management**: Organizes items into user-friendly categories for efficient navigation.
 - 📧 **Contact Integration**: Enables direct communication between finders and owners.
