@@ -32,7 +32,7 @@ Backend for the **Lost and Found Website** built with the MERN stack. This proje
 - **MongoDB**: NoSQL database for data storage.
 - **Mongoose**: Schema-based modeling for MongoDB.
 - **bcrypt.js**: For secure password hashing.
-- **JWT**: For user authentication and session management.
+
 
 ---
 
